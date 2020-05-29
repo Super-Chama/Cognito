@@ -1,6 +1,6 @@
 <?php
 
-namespace SocialiteProviders\Cognito;
+namespace SuperChama\Cognito;
 
 use SocialiteProviders\Manager\SocialiteWasCalled;
 
