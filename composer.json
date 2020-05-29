@@ -1,5 +1,5 @@
 {
-    "name": "SuperChama/Cognito",
+    "name": "super-chama/cognito",
     "description": "Cognito OAuth2 Provider for Laravel Socialite",
     "license": "MIT",
     "authors": [{
