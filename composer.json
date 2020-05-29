@@ -11,6 +11,12 @@
         "ext-json": "*",
         "socialiteproviders/manager": "~2.0 || ~3.0"
     },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url":  "git@github.com:Super-Chama/Cognito.git"
+        }
+    ],
     "autoload": {
         "psr-4": {
             "SocialiteProviders\\Cognito\\": ""
