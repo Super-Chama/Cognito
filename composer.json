@@ -1,5 +1,5 @@
 {
-    "name": "Super-Chama/cognito",
+    "name": "Super-Chama/Cognito",
     "description": "Cognito OAuth2 Provider for Laravel Socialite",
     "license": "MIT",
     "authors": [{
@@ -19,7 +19,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "SocialiteProviders\\Cognito\\": ""
+            "Super-Chama\\Cognito\\": ""
         }
     }
 }
