@@ -1,6 +1,6 @@
 <?php
 
-namespace SocialiteProviders\Cognito;
+namespace SuperChama\Cognito;
 
 use Illuminate\Support\Arr;
 use SocialiteProviders\Manager\OAuth2\AbstractProvider;
